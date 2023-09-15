@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "161433330557",
+    "project_id": "smart-camera-a9f88",
+    "storage_bucket": "smart-camera-a9f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161433330557:android:248075d72ce0493e78a214",
+        "android_client_info": {
+          "package_name": "com.example.smart_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161433330557-qmoqn79k0di7dh32dg3kdbnk5jkb7sks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_camera",
+            "certificate_hash": "b8659da138e198eddd79055dd30cbf9b42466475"
+          }
+        },
+        {
+          "client_id": "161433330557-maf29vmbo9nhsijaoaiejn473tvprgsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARQ0otFncmveUrZ1t82CZodXgSj0rNHhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161433330557-maf29vmbo9nhsijaoaiejn473tvprgsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
